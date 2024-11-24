@@ -1764,3 +1764,7 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.no-accent {
+  --accent-color: none;
+}
