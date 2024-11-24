@@ -1035,6 +1035,7 @@ section,
   position: relative;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
   text-align: center;
+  height: 100%;
 }
 
 .services .service-item .icon {
